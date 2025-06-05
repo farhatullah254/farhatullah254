@@ -88,8 +88,8 @@ Fridja is a leading brand specializing in high-quality fabric care and home appl
 
 ```python
 skills = {
-    'Languages': ['Python', 'PHP', 'JavaScript', 'HTML5', 'CSS3'],
-    'Frameworks': ['Django', 'Flask', 'WordPress', 'Bootstrap'],
+    'Languages': ['Python', 'Node.JS', 'JavaScript', 'HTML5', 'CSS3'],
+    'Frameworks': ['Django', 'Flask', 'WordPress', 'Tailwind CSS', 'Bootstrap'],
     'AI & ML': ['Langchain', 'LLMs', 'Custom Chatbots'],
     'Tools': ['Git', 'Docker', 'Selenium', 'AWS'],
     'Specialties': ['Speed Optimization', 'E-commerce', 'Automation']
