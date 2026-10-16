@@ -11,7 +11,6 @@ I work where code meets search. Most of my week is split between two things: bui
 - **Founder & CEO, Pyaox:** a web and SEO agency serving businesses in the UAE, Qatar, Saudi Arabia, Oman and the UK
 - **Product builder:** Chrome extensions, Shopify apps and SaaS tools powered by AI
 - **SEO practitioner:** technical SEO, local SEO, schema markup and content systems for real client sites
-- **Digital products seller:** printable digital products and pattern guides on Etsy
 
 ## What I build
 
@@ -33,7 +32,7 @@ I work where code meets search. Most of my week is split between two things: bui
 | **[BabyFormulaStore](https://babyformulastore.com)** | WooCommerce store for European organic baby formula | WooCommerce · WordPress |
 | **[CubaLuxe](https://cubaluxe.com)** | Multilingual luxury villa rental site for Cuba | WordPress |
 | **ConversorDeLetras** | Spanish-language fancy text and Unicode font generator | React · TypeScript |
-| **Cash & Code** | Newsletter about making real money with AI, code and digital products | TypeScript |
+| **Cash & Code** | Newsletter about making real money with AI and code | TypeScript |
 | **Pyaox BOGO** | Buy X Get Y free promotions app for Shopify stores | TypeScript · Shopify |
 
 ### Open-source on this profile
