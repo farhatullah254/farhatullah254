@@ -29,11 +29,6 @@ I work where code meets search. Most of my week is split between two things: bui
 | **[QuickListAI](https://quicklistai.org)** | AI Chrome extension that writes marketplace listing descriptions for resellers on Poshmark, Depop, Mercari, eBay, Vinted and more | WXT · Preact · Tailwind · Cloudflare Workers · Claude API |
 | **[WebRevealer](https://webrevealer.com)** | AI-powered website audit tool that crawls a site, finds SEO and technical issues, and generates reports | TypeScript · Python · AI |
 | **[Pyaox](https://pyaox.com)** | My agency: WordPress and Shopify web design, SEO, speed optimisation and AI chatbots | WordPress · Shopify · WooCommerce |
-| **[BabyFormulaStore](https://babyformulastore.com)** | WooCommerce store for European organic baby formula | WooCommerce · WordPress |
-| **[CubaLuxe](https://cubaluxe.com)** | Multilingual luxury villa rental site for Cuba | WordPress |
-| **ConversorDeLetras** | Spanish-language fancy text and Unicode font generator | React · TypeScript |
-| **Cash & Code** | Newsletter about making real money with AI and code | TypeScript |
-| **Pyaox BOGO** | Buy X Get Y free promotions app for Shopify stores | TypeScript · Shopify |
 
 ### Open-source on this profile
 
